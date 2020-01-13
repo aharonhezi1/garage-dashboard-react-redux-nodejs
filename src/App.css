@@ -1,4 +1,24 @@
-.App {
+.status{
+  text-align: center;
+  border: 1px;
+
+}
+.container{
+  border: 1px solid black !important;
+  background-color: rgb(240, 238, 221) !important;  
+  width: 20vw;
+  display: inline-block;
+  text-align: center;
+  height: 20vh;
+  margin-top: 3vh;
+  padding:1%;
+
+}
+body{
+  background-color: rgb(212, 228, 228);
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
